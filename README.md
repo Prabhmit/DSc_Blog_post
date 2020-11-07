@@ -42,7 +42,7 @@ developer_survey_2019 -> survey_results_public.csv
 developer_survey_2020 -> survey_results_public.csv
 
 # Results
-The main findings of the project can be found [here](https://prabhmit-chadha.medium.com/trends-in-computer-science-4c6ec3e78695)
+The main findings of the project can be found [here](https://prabhmit-chadha.medium.com/trends-in-computer-science-4c6ec3e78695).
 
 # Licensing, Authors and Acknowledgments
 Stack Overflow Annual Developer Survey, Stack Overflow, accessed 5 May 2020,
