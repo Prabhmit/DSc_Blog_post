@@ -15,11 +15,11 @@ I have explored Stack Overflow Annual Developer Survey data from 2011 to 2020 to
 3.	Have the top five popular programming languages changed from year to year since 2011?
 
 # File Descriptions
-The Project1.ipynb file contains the necessary scripts to read, cleanse, filter/join and analyze the data for this project. There are ten csv datafiles for Stack Overflow Annual Developer Survey data from 2011 to 2020 which are included in the Stack Overflow Survey Results zipped-folder. 2011 and 2012 csv files were opened and converted in Notepad++ to utf-8 codec first. The files in the zipped-folder are ready to be used with Project1.ipynb file. 
+The Project1.ipynb file contains the necessary scripts to read, cleanse, filter/join and analyze the data for this project. There are ten csv datafiles for Stack Overflow Annual Developer Survey data from 2011 to 2020 which are included in the Stack Overflow Survey Results zip-folder. 2011 and 2012 csv files were opened and converted in Notepad++ to utf-8 codec first. The files in the zip-folder are ready to be used with Project1.ipynb file. 
 
 The raw files if required are at: https://insights.stackoverflow.com/surve
 
-The following are directory and files names for data files contained in the zipped-folder:
+The following are directory and survey data file names for data files contained in the Stack Overflow Survey Results zip-folder:
 
 2011 Stack Overflow Survey Results -> 2011 Stack Overflow Survey Results.csv
 
