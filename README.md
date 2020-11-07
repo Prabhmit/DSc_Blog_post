@@ -14,8 +14,10 @@ I have explored Stack Overflow Annual Developer Survey data from 2011 to 2020 to
 2.	Is there a trend in participant representation from non-computer science disciplines especially fine arts, health science or natural science?
 3.	Have the top five popular programming languages changed from year to year since 2011?
 
+Stack Overflow Annual Developer Survey data from 2011 to 2020 was extracted and cleansed to answer the above questions.
+
 # File Descriptions
-The Project1.ipynb notebook contains the necessary scripts to read, cleanse, filter/join and analyze the data for this project. There are ten csv datafiles for Stack Overflow Annual Developer Survey data from 2011 to 2020 which are included in the Stack Overflow Survey Results zip-folder. 2011 and 2012 csv files were opened and converted in Notepad++ to utf-8 codec first. The files in the zip-folder are ready to be used with Project1.ipynb file. 
+There are ten csv datafiles for Stack Overflow Annual Developer Survey data from 2011 to 2020 which are included in the Stack Overflow Survey Results zip-folder. 2011 and 2012 csv files were opened and converted in Notepad++ to utf-8 codec first. The files in the zip-folder are ready to be used with Project1.ipynb file. 
 
 The raw files if required are at: https://insights.stackoverflow.com/surve
 
@@ -40,6 +42,8 @@ developer_survey_2018 -> survey_results_public.csv
 developer_survey_2019 -> survey_results_public.csv
 
 developer_survey_2020 -> survey_results_public.csv
+
+The Project1.ipynb notebook contains the necessary scripts to read, cleanse, filter/join and analyze the data for this project.
 
 # Results
 The main findings of the project can be found [here](https://prabhmit-chadha.medium.com/trends-in-computer-science-4c6ec3e78695).
